@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>XcodeLocation</key>
+					<string>{"ExpandTranscript":true,"IndexPath":[7,21,0]}</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>payload</key>
+					<string>x-xcode-log://8934D974-F81A-4D42-9106-6C1E1AB0519E</string>
+				</dict>
+				<key>scheme</key>
+				<string>x-xcode-log</string>
+				<key>type</key>
+				<string>IDELogDocumentLocation</string>
+			</dict>
+			<key>title</key>
+			<string>Error: No such file or directory: '/Users/znexie/Library/Developer/Xcode/DerivedData/NewsApp-ckrbourmmtlveraubvpxvzaioxef/Build/Products/Debug-iphoneos/PackageFrameworks/AlamofireDynamic.framework/AlamofireDynamic'</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>XcodeLocation</key>
+					<string>{"ExpandTranscript":true,"IndexPath":[7,21,0]}</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>payload</key>
+					<string>x-xcode-log://8934D974-F81A-4D42-9106-6C1E1AB0519E</string>
+				</dict>
+				<key>scheme</key>
+				<string>x-xcode-log</string>
+				<key>type</key>
+				<string>IDELogDocumentLocation</string>
+			</dict>
+			<key>title</key>
+			<string>Error: No such file or directory: '/Users/znexie/Library/Developer/Xcode/DerivedData/NewsApp-ckrbourmmtlveraubvpxvzaioxef/Build/Products/Debug-iphoneos/PackageFrameworks/AlamofireDynamic.framework/AlamofireDynamic'</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
